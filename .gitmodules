@@ -1,0 +1,3 @@
+[submodule "nextjs-game-reviews"]
+	path = nextjs-game-reviews
+	url = https://github.com/stgran66/nextjs-game-reviews.git
