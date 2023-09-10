@@ -1,3 +1,9 @@
 [submodule "nextjs-game-reviews"]
 	path = nextjs-game-reviews
 	url = https://github.com/stgran66/nextjs-game-reviews.git
+[submodule "game-reviews-api"]
+	path = game-reviews-api
+	url = https://github.com/stgran66/game-reviews-api.git
+[submodule "nextjs-game-reviews-cms"]
+	path = nextjs-game-reviews-cms
+	url = https://github.com/stgran66/nextjs-game-reviews-cms.git
